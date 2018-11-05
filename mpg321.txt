@@ -5,7 +5,7 @@ Uses code from various people. See 'README' for more!
 THIS SOFTWARE COMES WITH ABSOLUTELY NO WARRANTY! USE AT YOUR OWN RISK!
 
 Directory: en_mp3
-Playing MPEG stream from you_are_welcome.mp3 ...
+Playing MPEG stream from achievement.mp3 ...
 MPEG 2.0 layer III, 32 kbit/s, 24000 Hz mono
                                                                             
-[0:01] Decoding of you_are_welcome.mp3 finished.
+[0:01] Decoding of achievement.mp3 finished.

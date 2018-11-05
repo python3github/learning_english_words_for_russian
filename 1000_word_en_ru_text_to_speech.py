@@ -124,8 +124,8 @@ menu_str_4 = color.Yellow + "  русский перевод  - временна
 menu_str = menu_str_0 + menu_str_1 + menu_str_2 + menu_str_3 + menu_str_4
 menu = int(input(menu_str))
 
-n = input(color.Yellow + "Введите номер строки с которой надо начать (0 чтобы начать с первой строки) или Enter чтобы начать с того места где завершили в прошлый раз: " + color.END)
-speed = float(input(color.Yellow + "Введите коэфициент скорости, например 2 для двукратного уменьшения пауз: " + color.END))
+n = input(color.Yellow + "Введите номер строки с которой надо начать (" + color.END + color.Red + "0" + color.END + color.Yellow + " чтобы начать с первой строки) или" + color.END + color.Red + " Enter " + color.END + color.Yellow + "чтобы начать с того места где завершили в прошлый раз: " + color.END)
+speed = float(input(color.Yellow + "Введите коэфициент скорости, например" + color.END + color.Red + " 2 " + color.END + color.Yellow + "для двукратного уменьшения пауз: " + color.END))
 
 if n.isdigit():
     n = int(n)
