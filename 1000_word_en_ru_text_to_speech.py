@@ -8,7 +8,7 @@ sudo apt-get install mpg321
 import asyncio
 import time
 
-from prompt_toolkit import prompt_async  # $ pip install prompt_toolkit
+from prompt_toolkit import prompt_async  # $ sudo pip3 install prompt_toolkit==1.0.15
 from prompt_toolkit.shortcuts import Keys, Registry
 
 import os
